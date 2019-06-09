@@ -1,0 +1,30 @@
+# Thanks a lot!
+
+These people and their idea helped me for **React-World**:
+
+- **Robby Leonardi** - His website is part of my challenge. You should see his interactive resume.
+  <br>[Interactive Resume](http://www.rleonardi.com/interactive-resume/)
+
+- **İbrahim Telman** - (my close friend and colleague) helped on tests and proof of concept stage.
+  <br>[@ibrahimtelman](https://github.com/ibrahimtelman)
+
+Used ressources:
+
+- **Trees** - [link](https://www.google.com/search?biw=1536&bih=731&tbm=isch&sa=1&ei=WKbSXJbuLautgwetw6fIBQ&q=tree+vector&oq=tree+vector&gs_l=img.3...3670.3670..3738...0.0..0.0.0.......1....1..gws-wiz-img._W1Tl0uUEwc#imgrc=1o33p3GOFypGjM:)
+- **Darth Vader** - [link](https://www.google.com/search?biw=1536&bih=682&tbm=isch&sa=1&ei=jrDSXOnsL833kwW0urCQBQ&q=vader+pixel+art&oq=vader+pix&gs_l=img.1.0.0i19j0i5i30i19l4.23542.28286..29210...0.0..0.114.929.4j5......1....1..gws-wiz-img.......35i39j0j0i67j0i30.57Kr9PJVMyQ#imgrc=AioAjRIl2k_LzM:)
+- **Wall-e** - [link](https://www.google.com/search?biw=1536&bih=682&tbm=isch&sa=1&ei=ybDSXKe4K4X3kwXakpCABw&q=wall-e+pixel+art+gif&oq=wa&gs_l=img.1.0.35i39l2j0i67l2j0j0i67l4j0.7112.7328..9463...0.0..0.105.207.0j2......1....1..gws-wiz-img.I361avkQit4#imgdii=6TMGaNBmJ8MZ_M:&imgrc=NyVfJdbmzHxzmM:)
+- **Pacman** - [link](https://www.google.com/search?biw=1536&bih=682&tbm=isch&sa=1&ei=_7DSXJmfMtH2kwW78LGwDA&q=pacman+pixel+art&oq=pacman+pixel+art&gs_l=img.3..35i39l2j0i30l2j0i8i30l4j0i5i30l2.68628.68812..69035...0.0..0.145.252.0j2......1....1..gws-wiz-img.......0i19j0i30i19j0i8i30i19j0i5i30i19.frwhrXgsijA#imgrc=o91cn4ATzPmyqM:)
+- **Volcano** - [link](https://www.google.com/search?biw=1536&bih=731&tbm=isch&sa=1&ei=R7nSXLO_D7WHjLsPib-S0AI&q=volcano+mountain+pixel+art&oq=volcano+mountain+pixel+art&gs_l=img.3...638392.640077..640322...0.0..0.156.1043.0j9......1....1..gws-wiz-img.......35i39.B9FLwXW0FjI#imgrc=wLlinqZ_SSpMcM:)
+- **Bush** - [link](https://www.google.com/search?q=mario+bush&tbm=isch&tbs=rimg:CXZnQqeKexrtIjitZrICdD84CcoXTJCN-sIqyzTaHKy4d5yJDekOUUpV02EOHKvbwH-mL9RTqfUzMfbDi8W4pvP13yoSCa1msgJ0PzgJETbgBnyWwqk4KhIJyhdMkI36wioRIatTVILiDxkqEgnLNNocrLh3nBHM3DiivB3pTioSCYkN6Q5RSlXTEWQhBjWjJwMwKhIJYQ4cq9vAf6YR4W170CEOZkQqEgkv1FOp9TMx9hGm6gK1acFc9SoSCcOLxbim8_1XfEawf63mkm7KH&tbo=u&sa=X&ved=2ahUKEwiblaXsh7riAhXDyKQKHcJ2CyYQ9C96BAgBEBs&biw=1536&bih=731&dpr=1.25#imgrc=rWayAnQ_OAlSUM:)
+- **Death Star** - [link](https://www.google.com/search?biw=1536&bih=731&tbm=isch&sa=1&ei=RpbeXLrrL-yejLsPspSooAk&q=death+star+pixel+art&oq=death+star+pixel+art&gs_l=img.3..0i19.1649.3565..3682...0.0..0.127.1044.0j9......1....1..gws-wiz-img.......0j0i30j0i30i19.VIhMO9H7L_g#imgrc=B7zKdEYmAFiKtM:)
+- **Hobbit Hole** - [link](https://www.google.com/search?q=hobbit+house+pixel+art&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj3hLSFuKLiAhUZ5KYKHT7tCcUQ_AUIDigB&biw=1536&bih=731&dpr=1.25#imgrc=GizZl2BKy-VpFM:)
+- **Building** - [link](https://www.google.com/search?q=free+pixel+art+building&tbm=isch&tbs=rimg:CR94nfPBAWB1IjhxuaVhaMu_1mIjX7Oj_151riofP9lwV_1VXS1vwJZVU9jxIrvbAJvcqvGubzg62HLS5gOTtErR8okNSoSCXG5pWFoy7-YEWqlhOTsKTULKhIJiNfs6P_1nWuIRsSPU9hdX6FQqEgmh8_12XBX9VdBHTReh2fjineSoSCbW_1AllVT2PEEcmSu43dpxFXKhIJiu9sAm9yq8YRsPwSpGAuxV0qEgm5vODrYctLmBGg_1FGlpgwJ-CoSCQ5O0StHyiQ1EdaHiu9e0CEY&tbo=u&sa=X&ved=2ahUKEwir7Jycnt3iAhVR_aQKHZXNDt4Q9C96BAgBEBs&biw=1536&bih=731&dpr=1.25#imgrc=cbmlYWjLv5gCiM:)
+- **City Silhouette** - [link](https://www.google.com/search?q=pixel+art+city&tbm=isch&tbs=rimg:CRGR5LVenMwrIji2BQud6yax4yUd-cpCU-8hxlr7Hok8A85bPa1SNr_1C53KFM6Xsc9q_1t-DfUltr2Gn1Usy6Ud7AqSoSCbYFC53rJrHjEUdJoOBsNN8QKhIJJR35ykJT7yEReEMLejXHZNEqEgnGWvseiTwDzhETG8rui7OTbSoSCVs9rVI2v8LnEeF0R-l3VC1aKhIJcoUzpexz2r8RZWu5lGpShkUqEgm34N9SW2vYaRFm8aHQsrvSryoSCfVSzLpR3sCpEV-9Igel94Jd&tbo=u&sa=X&ved=2ahUKEwiLmqzlobTiAhUJK1AKHdP6BCsQ9C96BAgBEBs&biw=1536&bih=731&dpr=1.25#imgrc=WFxwxQWmXnVySM:)
+- **Super Mario** - [link](https://www.google.com/search?biw=1536&bih=731&tbm=isch&sa=1&ei=SSbpXJS2HsWRkwW82JW4BA&q=retro+mario+sprite+sheet&oq=retro+mario+sprite+sheet&gs_l=img.3...77027.78129..78170...0.0..0.312.958.0j1j2j1......0....1..gws-wiz-img.oirf1tqimI0#imgrc=hl2da2Kgw8u7XM:)
+- **Super Mario Tiles** - [link](https://www.google.com/search?q=mario+tiles&tbm=isch&tbs=rimg:CX95ihz7iZPiIjhVX8TrQa4fV-lN1thzm8JDZtfqurm4C1yugbTY95B8qfz27uv-RLEkD-D6C6LIpoYxEMwfnGJMjyoSCVVfxOtBrh9XEW5sa7sagtzZKhIJ6U3W2HObwkMR5swdyZmh84YqEglm1-q6ubgLXBGv2_18wBcxs4CoSCa6BtNj3kHypEdexgQFz2aR4KhIJ_1Pbu6_15EsSQRZVFEBN2CJg0qEgkP4PoLosimhhGROYD8hfQbtioSCTEQzB-cYkyPETq7fu9kNnyu&tbo=u&sa=X&ved=2ahUKEwiv8O_N47fiAhWQEVAKHcloBjYQ9C96BAgBEBs&biw=1707&bih=758&dpr=1.25#imgrc=_Pbu6_5EsSRcfM:)
+- **Hill** - [link](https://www.google.com/search?q=mario+hill&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIvLyzh7riAhXMxaYKHRPCAcYQ_AUIDigB&biw=1536&bih=731&dpr=1.25#imgrc=zOqb6Kne9PkLJM:)
+- **Castle** - [link](https://www.google.com/search?q=mario+castle+sprite&tbm=isch&tbs=rimg:CfDc6-yAk_1hRIjhCfWFWlwJCg7tvgBlzPO2WUn1HwS72UiTVHPeyVtMJHCyKsZ29W_1XwapFAeOenzsnnQPqZN8wmNSoSCUJ9YVaXAkKDEdwJiqfe5p9FKhIJu2-AGXM87ZYR7DBkdiRC9bwqEglSfUfBLvZSJBGLxXeCUlKIoyoSCdUc97JW0wkcEWunPJVA7A-VKhIJLIqxnb1b9fARllXqCCSmavYqEglqkUB456fOyRHBrdI2iQpiEyoSCedA-pk3zCY1EbMfrVXLCpnq&tbo=u&sa=X&ved=2ahUKEwiAwZq_jbriAhVR46QKHTd2B1IQ9C96BAgBEBs&biw=1536&bih=682&dpr=1.25#imgdii=0nbn82GjYlY3cM:&imgrc=F-nKbWH8XwnicM:)
+- **Pacman Enemies** - [link](https://www.google.com/search?q=pacman+enemies&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjS5NGW9r3iAhUP-6QKHRcoAMMQ_AUIDigB&biw=1536&bih=731#imgdii=l7xpjqOf7kuy5M:&imgrc=X-yUr7XCNelKaM:)
+- **Gandalf** - [link](https://www.google.com/search?q=gandalf+pixel+art&tbm=isch&tbs=rimg:CSG_1Z9w7G85DIjhZksVq64dYLUt79r2CdVrKwwDejm-k1XrTjzpJj1LhCqkLADIja_1ZuzZcEmaZ1PfaUAO8ppxcOjioSCVmSxWrrh1gtEdVSxJ6m_1wfnKhIJS3v2vYJ1WsoRAErm4-5gy7EqEgnDAN6Ob6TVehFX7pDlC3OHECoSCdOPOkmPUuEKEcgq0lWY2FybKhIJqQsAMiNr9m4R_1itn1969fZAqEgnNlwSZpnU99hG0Qc_1lEuE_1nSoSCZQA7ymnFw6OEVnLjVxHDaWK&tbo=u&sa=X&ved=2ahUKEwjvxcOW48HiAhXEyKQKHc6JBdMQ9C96BAgBEBs&biw=1396&bih=665&dpr=1.38#imgrc=Ib9n3DsbzkOyOM:)
+
+P.S. : I added directly Google Images links, because some resources can be deleted.

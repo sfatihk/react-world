@@ -1,0 +1,49 @@
+{
+  "name": "react-world",
+  "version": "1.0.0",
+  "description": "Welcome to React World :)",
+  "private": true,
+  "homepage": "https://sfatihk.github.io/react-world",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfatihk/react-world.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "scroll",
+    "animation",
+    "super heroes"
+  ],
+  "license": "MIT",
+  "author": "Seyyid Fatih KOÇ",
+  "bugs": {
+    "url": "https://github.com/sfatihk/react-world/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "2.1.8",
+    "styled-components": "^4.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "serve": "serve -s build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy-on-surge": "cd build/ &&  surge --domain react-world.surge.sh"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

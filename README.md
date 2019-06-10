@@ -37,11 +37,12 @@ export default withScroll(wrappedComp);
 ---
 
 withScroll props :
-| attribute | type | return |
+
+| attribute       | type    | return                |
 | --------------- | ------- | --------------------- |
-| onScrolling | boolean | true/false |
-| scroll | float | between [0-maxScroll] |
-| scrollDirection | integer | 0(right), 1(left) |
+| onScrolling     | boolean | true/false            |
+| scroll          | float   | between [0-maxScroll] |
+| scrollDirection | integer | 0(right), 1(left)     |
 
 ## SceneObject
 

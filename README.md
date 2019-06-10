@@ -137,9 +137,9 @@ this.animations = {
 
 ## Player
 
-<img src="resources/mario_11.png" width="150" />
-<img src="resources/mario_12.png" width="150" />
-<img src="resources/mario_13.png" width="150" />
+<img src="resources/mario_11.png" width="150" align="left"/>
+<img src="resources/mario_12.png" width="150" align="left"/>
+<img src="resources/mario_13.png" width="150" align="left"/>
 
 - Player is actually a main layer. But didn't move x or y axis.
 - Player includes 2 animations: hero/skin changing and jumping, and they defined in **animation** structure.

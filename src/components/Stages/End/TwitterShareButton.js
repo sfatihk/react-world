@@ -10,7 +10,7 @@ const TwitterShareButton = React.memo(props => {
   const hashtags = "react-world,javascript,js,reactjs,animation";
 
   return (
-    <div
+    <img
       name="TwitterShareButton"
       style={{ cursor: "pointer" }}
       onClick={() =>
@@ -20,9 +20,10 @@ const TwitterShareButton = React.memo(props => {
           "width=600,height=400"
         )
       }
-    >
-      <img alt="Twitter Icon" src={TwitterIcon} width="150" />
-    </div>
+      alt="Twitter Icon"
+      src={TwitterIcon}
+      width="150"
+    />
   );
 });
 

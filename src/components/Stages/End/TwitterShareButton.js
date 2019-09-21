@@ -7,7 +7,7 @@ const TwitterShareButton = React.memo(props => {
 
   const url = "https://github.com/sfatihk/react-world";
 
-  const hashtags = "react-world,javascript,js,reactjs,animation";
+  const hashtags = "reactWorld,javascript,js,reactjs,animation";
 
   return (
     <img

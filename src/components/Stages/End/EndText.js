@@ -1,6 +1,8 @@
 import React from "react";
 import SceneObject from "../../SceneObject";
 
+import TwitterShareButton from "./TwitterShareButton";
+
 const EndText = React.memo(props => (
   <SceneObject
     name="Thanks"
@@ -10,6 +12,7 @@ const EndText = React.memo(props => (
       rotation: props.transform.rotation
     }}
   >
+    <TwitterShareButton />
     <a
       style={{ textDecoration: "none" }}
       href="https://github.com/sfatihk/react-world"

@@ -12,6 +12,7 @@ const TwitterShareButton = React.memo(props => {
   return (
     <div
       name="TwitterShareButton"
+      style={{ cursor: "pointer" }}
       onClick={() =>
         window.open(
           `https://twitter.com/intent/tweet?text=${text}&url=${url}&hashtags=${hashtags}`,

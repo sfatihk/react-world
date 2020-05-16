@@ -100,7 +100,7 @@ const WithScroll = WrappedComponent => {
             <div onClick={this.toggleAutoScroll}>
               {this.state.scroll > 0 ? (
                 <h1 style={{ marginLeft: 40 }}>
-                  switch to
+                  switch to {this.state.scroll}
                   <br />
                   <div style={{ color: "#ffff01" }}>
                     {this.autoScroll ? "scroll" : "autoplay"}

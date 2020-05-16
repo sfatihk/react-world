@@ -21,7 +21,12 @@ const animations = {
   "16650-17000": { startHeight: 247, endHeight: 100, type: "fall" },
 
   //mario jumps
-  "18000-19070": { startHeight: 347, endHeight: 100, type: "fall" },
+
+  "18000-18500": { startHeight: 200, endHeight: 100, type: "fall" },
+  "18500-18580": { startHeight: 100, endHeight: 200, type: "jump" },
+  "18580-18770": { startHeight: 200, endHeight: 100, type: "fall" },
+
+  "18900-19070": { startHeight: 347, endHeight: 100, type: "fall" },
   "19100-19350": { startHeight: 100, endHeight: 347, type: "jump" },
   "19380-19500": { startHeight: 347, endHeight: 100, type: "fall" },
 

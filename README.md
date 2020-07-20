@@ -2,6 +2,11 @@
 
 ## Few layers, scroll event manipulations and of course famous movie and game characters. [ Live Demo](https://sfatihk.github.io/react-world/#)
 
+<a href="https://tracking.gitads.io/?repo=react-world">
+ <img src="https://images.gitads.io/react-world" alt="GitAds"/> </a>
+
+---
+
 <img src="resources/preview.gif"/>
 
 ---

@@ -1,3 +1,4 @@
+<sub>*React-world is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial*</sub>
 <a href="https://tracking.gitads.io/?repo=react-world">
  <img src="https://images.gitads.io/react-world" alt="GitAds"/> </a>
 

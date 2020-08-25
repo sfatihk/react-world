@@ -1,9 +1,3 @@
-<sub>*React-world is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial*</sub>
-<a href="https://tracking.gitads.io/?repo=react-world">
- <img src="https://images.gitads.io/react-world" alt="GitAds"/> </a>
-
----
-
 <img src="resources/react-world-banner.png"/>
 
 ## Few layers, scroll event manipulations and of course famous movie and game characters. [ Live Demo](https://sfatihk.github.io/react-world/#)

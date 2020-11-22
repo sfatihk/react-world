@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4be6f8fc7627bf1c279f",
+    "revision": "6b231919b1e124292e06",
     "url": "/react-world/static/css/main.f1dce718.chunk.css"
   },
   {
-    "revision": "4be6f8fc7627bf1c279f",
-    "url": "/react-world/static/js/main.16009161.chunk.js"
+    "revision": "6b231919b1e124292e06",
+    "url": "/react-world/static/js/main.e042cd5b.chunk.js"
   },
   {
     "revision": "cbfb99d0007d8a22ec32",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-world/static/media/sauron.f6711283.png"
   },
   {
-    "revision": "a3da77c92c0963c5a7dcd20492280be2",
+    "revision": "2e87c9fa9766f356e4fc72433e29131a",
     "url": "/react-world/index.html"
   }
 ];

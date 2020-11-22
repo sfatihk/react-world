@@ -36,39 +36,51 @@ const heroes = {
   space: {
     speed: 30,
     delimiter: 10, // speed / step
-    frames: [["", "", ""], ["", "", ""]] //left - right
+    frames: [
+      ["", "", ""], //backward
+      ["", "", ""], //forward
+    ],
   },
   mario: {
     speed: 30,
     delimiter: 10, // speed / step
-    frames: [[mario_01, mario_02, mario_03], [mario_11, mario_12, mario_13]] //left - right
+    frames: [
+      [mario_01, mario_02, mario_03], //backward
+      [mario_11, mario_12, mario_13], //forward
+    ],
   },
   gandalf: {
     speed: 30,
     delimiter: 10, // speed / step
     frames: [
-      [gandalf_01, gandalf_02, gandalf_03],
-      [gandalf_11, gandalf_12, gandalf_13]
-    ] //left - right
+      [gandalf_01, gandalf_02, gandalf_03], //backward
+      [gandalf_11, gandalf_12, gandalf_13], //forward
+    ],
   },
   pacman: {
     speed: 30,
     delimiter: 10, // speed / step
     frames: [
-      [pacman_01, pacman_02, pacman_02],
-      [pacman_11, pacman_12, pacman_12]
-    ] //left - right
+      [pacman_01, pacman_02, pacman_02], //backward
+      [pacman_11, pacman_12, pacman_12], //forward
+    ],
   },
   vader: {
     speed: 30,
     delimiter: 10, // speed / step
-    frames: [[vader_01, vader_02, vader_03], [vader_11, vader_12, vader_13]] //left - right
+    frames: [
+      [vader_01, vader_02, vader_03], //backward
+      [vader_11, vader_12, vader_13], //forward
+    ],
   },
   walle: {
     speed: 30,
     delimiter: 10, // speed / step
-    frames: [[walle_01, walle_02, walle_03], [walle_11, walle_12, walle_13]] //left - right
-  }
+    frames: [
+      [walle_01, walle_02, walle_03], //backward
+      [walle_11, walle_12, walle_13], //forward
+    ],
+  },
 };
 
 let count = 0;
@@ -83,18 +95,18 @@ const heroesShowUp = {
   "17650-21975": { hero: "mario" },
   "21975-23100": { hero: "space" },
   "23100-28150": { hero: "pacman" },
-  "28150-29050": { hero: "space" }
+  "28150-29050": { hero: "space" },
 };
 
 /** search in `animations` by frame(scroll) */
-const determineAnim = scroll => {
+const determineAnim = (scroll) => {
   try {
     let anim = null;
 
     const currFrame = scroll;
 
     let animRange;
-    Object.keys(heroesShowUp).some(k => {
+    Object.keys(heroesShowUp).some((k) => {
       animRange = k.split("-");
 
       //if it out of current range

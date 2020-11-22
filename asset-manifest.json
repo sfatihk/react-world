@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-world/static/css/main.e0890982.chunk.css",
-  "main.js": "/react-world/static/js/main.20ba9479.chunk.js",
-  "main.js.map": "/react-world/static/js/main.20ba9479.chunk.js.map",
+  "main.css": "/react-world/static/css/main.f1dce718.chunk.css",
+  "main.js": "/react-world/static/js/main.16009161.chunk.js",
+  "main.js.map": "/react-world/static/js/main.16009161.chunk.js.map",
   "runtime~main.js": "/react-world/static/js/runtime~main.72b31130.js",
   "runtime~main.js.map": "/react-world/static/js/runtime~main.72b31130.js.map",
-  "static/js/2.94dfc088.chunk.js": "/react-world/static/js/2.94dfc088.chunk.js",
-  "static/js/2.94dfc088.chunk.js.map": "/react-world/static/js/2.94dfc088.chunk.js.map",
+  "static/js/2.d2ca1c0d.chunk.js": "/react-world/static/js/2.d2ca1c0d.chunk.js",
+  "static/js/2.d2ca1c0d.chunk.js.map": "/react-world/static/js/2.d2ca1c0d.chunk.js.map",
   "index.html": "/react-world/index.html",
-  "precache-manifest.3aaf993ef43ef577b029d8c1f535ac1f.js": "/react-world/precache-manifest.3aaf993ef43ef577b029d8c1f535ac1f.js",
+  "precache-manifest.294fac31a584d99297a10fc802d27ba2.js": "/react-world/precache-manifest.294fac31a584d99297a10fc802d27ba2.js",
   "service-worker.js": "/react-world/service-worker.js",
-  "static/css/main.e0890982.chunk.css.map": "/react-world/static/css/main.e0890982.chunk.css.map",
+  "static/css/main.f1dce718.chunk.css.map": "/react-world/static/css/main.f1dce718.chunk.css.map",
   "static/media/frodo.png": "/react-world/static/media/frodo.47939afc.png",
   "static/media/sauron.png": "/react-world/static/media/sauron.f6711283.png"
 }

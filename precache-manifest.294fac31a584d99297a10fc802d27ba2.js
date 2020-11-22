@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "bbfe0053c936467ae992",
-    "url": "/react-world/static/css/main.e0890982.chunk.css"
+    "revision": "4be6f8fc7627bf1c279f",
+    "url": "/react-world/static/css/main.f1dce718.chunk.css"
   },
   {
-    "revision": "bbfe0053c936467ae992",
-    "url": "/react-world/static/js/main.20ba9479.chunk.js"
+    "revision": "4be6f8fc7627bf1c279f",
+    "url": "/react-world/static/js/main.16009161.chunk.js"
   },
   {
     "revision": "cbfb99d0007d8a22ec32",
     "url": "/react-world/static/js/runtime~main.72b31130.js"
   },
   {
-    "revision": "8c5004c4d759b882f05a",
-    "url": "/react-world/static/js/2.94dfc088.chunk.js"
+    "revision": "f4288fadcc544d2f690a",
+    "url": "/react-world/static/js/2.d2ca1c0d.chunk.js"
   },
   {
     "revision": "47939afce290f71032a6cf9187181a7d",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-world/static/media/sauron.f6711283.png"
   },
   {
-    "revision": "4008be75989568abf61ca476e104a4f7",
+    "revision": "a3da77c92c0963c5a7dcd20492280be2",
     "url": "/react-world/index.html"
   }
 ];

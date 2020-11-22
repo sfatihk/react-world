@@ -99,7 +99,7 @@ const WithScroll = (WrappedComponent) => {
             />
             <div onClick={this.toggleAutoScroll}>
               {this.state.scroll > 0 ? (
-                <h1 style={{ marginLeft: 40 }}>
+                <h1 style={{ marginLeft: 40, cursor: "pointer" }}>
                   switch to
                   <br />
                   <div

@@ -1,12 +1,12 @@
 import React from "react";
 import GenerateBackgroundColor from "../utils/GenerateBackgroundColor";
-const WithScroll = WrappedComponent => {
+const WithScroll = (WrappedComponent) => {
   class HOC extends React.Component {
     state = {
       scroll: 0,
       onScrolling: false,
       scrollDirection: 1, //forward:1 , backward: 0
-      scrollDelta: 0 //for responsive max scroll height
+      scrollDelta: 0, //for responsive max scroll height
     };
     oldScroll = 0;
     startScroll = 0;
@@ -43,7 +43,7 @@ const WithScroll = WrappedComponent => {
       this.hackTheScroll(this.state.scroll);
     };
 
-    animateWithScroll = event => {
+    animateWithScroll = (event) => {
       if (this.autoScroll) return;
 
       this.state.onScrolling = true;
@@ -69,7 +69,7 @@ const WithScroll = WrappedComponent => {
         return true;
       }
     }
-    toggleAutoScroll = e => {
+    toggleAutoScroll = (e) => {
       e.preventDefault();
       this.autoScroll = !this.autoScroll;
     };
@@ -80,7 +80,7 @@ const WithScroll = WrappedComponent => {
             height: `${window.innerHeight + this.maxScroll}px`, // for responsive
             backgroundColor: GenerateBackgroundColor(this.state.scroll),
             transition: "background-color 2s",
-            overflow: `hidden`
+            overflow: `hidden`,
           }}
         >
           <WrappedComponent
@@ -94,7 +94,7 @@ const WithScroll = WrappedComponent => {
               style={{
                 width: `${(this.state.scroll / this.maxScroll) * 100}%`,
                 height: 25,
-                backgroundColor: "#6B6B6B"
+                backgroundColor: "#6B6B6B",
               }}
             />
             <div onClick={this.toggleAutoScroll}>
@@ -102,7 +102,9 @@ const WithScroll = WrappedComponent => {
                 <h1 style={{ marginLeft: 40 }}>
                   switch to
                   <br />
-                  <div style={{ color: "#ffff01" }}>
+                  <div
+                    style={{ color: "#ffff01", textDecoration: "underline" }}
+                  >
                     {this.autoScroll ? "scroll" : "autoplay"}
                   </div>
                 </h1>
@@ -115,7 +117,7 @@ const WithScroll = WrappedComponent => {
                       width: 420,
                       padding: 40,
                       color: "#FFEB3B",
-                      backgroundColor: "#6B6B6B"
+                      backgroundColor: "#6B6B6B",
                     }}
                   >
                     React World!

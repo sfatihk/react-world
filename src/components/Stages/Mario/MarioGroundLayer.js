@@ -12,10 +12,12 @@ import Castle from "./Castle";
 import RisingFlag from "./RisingFlag";
 
 import GroundTile from "../../../assets/images/groundTiles/1.png";
+import PrizeBox from "./PrizeBox";
+import MushroomAnimated from "./MushroomAnimated";
 
 const visibleRange = [15500, 24550];
 
-const MarioGroundLayer = React.memo(props => {
+const MarioGroundLayer = React.memo((props) => {
   if (!(visibleRange[0] <= props.scroll && props.scroll < visibleRange[1]))
     return <div />;
   return (
@@ -36,14 +38,23 @@ const MarioGroundLayer = React.memo(props => {
         name="MARIOGROUND"
         transform={{
           position: { x: 2850, y: -2300 },
-          scale: { x: 2500, y: 2400 }
+          scale: { x: 2500, y: 2400 },
         }}
         imgUrl={GroundTile}
         bgRepeat
       />
       <Hill transform={{ position: { x: 275, y: 100 } }} />
       <Bush transform={{ position: { x: 675, y: 100 } }} />
-      <BrickRoof1 transform={{ position: { x: 750, y: 400 } }} />
+      <PrizeBox transform={{ position: { x: 350, y: 450 } }} />
+      <MushroomAnimated
+        transform={{ position: { x: 750, y: 550 } }}
+        animStartScroll={18500}
+        scroll={props.scroll}
+      />
+      <BrickRoof1
+        transform={{ position: { x: 750, y: 450 } }}
+        showMushroom={props.scroll > 18500}
+      />
       <Bush transform={{ position: { x: 1600, y: 100 } }} />
       <Pipe transform={{ position: { x: 1500, y: 100 } }} />
       <BrickRoof2 transform={{ position: { x: 2325, y: 200 } }} />

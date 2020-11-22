@@ -17,7 +17,7 @@ import MushroomAnimated from "./MushroomAnimated";
 
 const visibleRange = [15500, 24550];
 
-const MarioGroundLayer = React.memo(props => {
+const MarioGroundLayer = React.memo((props) => {
   if (!(visibleRange[0] <= props.scroll && props.scroll < visibleRange[1]))
     return <div />;
   return (
@@ -38,7 +38,7 @@ const MarioGroundLayer = React.memo(props => {
         name="MARIOGROUND"
         transform={{
           position: { x: 2850, y: -2300 },
-          scale: { x: 2500, y: 2400 }
+          scale: { x: 2500, y: 2400 },
         }}
         imgUrl={GroundTile}
         bgRepeat
@@ -47,7 +47,7 @@ const MarioGroundLayer = React.memo(props => {
       <Bush transform={{ position: { x: 675, y: 100 } }} />
       <PrizeBox transform={{ position: { x: 350, y: 450 } }} />
       <MushroomAnimated
-        transform={{ position: { x: 750, y: 550 }, scale: { x: 100, y: 100 } }}
+        transform={{ position: { x: 750, y: 550 } }}
         animStartScroll={18500}
         scroll={props.scroll}
       />

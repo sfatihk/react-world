@@ -1,4 +1,11 @@
 //character images
+import mario_mini_01 from "../../assets/images/marioMini/mario_mini_01.png";
+import mario_mini_02 from "../../assets/images/marioMini/mario_mini_02.png";
+import mario_mini_03 from "../../assets/images/marioMini/mario_mini_03.png";
+import mario_mini_11 from "../../assets/images/marioMini/mario_mini_11.png";
+import mario_mini_12 from "../../assets/images/marioMini/mario_mini_12.png";
+import mario_mini_13 from "../../assets/images/marioMini/mario_mini_13.png";
+
 import mario_01 from "../../assets/images/mario/mario_01.png";
 import mario_02 from "../../assets/images/mario/mario_02.png";
 import mario_03 from "../../assets/images/mario/mario_03.png";
@@ -39,6 +46,14 @@ const heroes = {
     frames: [
       ["", "", ""], //backward
       ["", "", ""], //forward
+    ],
+  },
+  mario_mini: {
+    speed: 30,
+    delimiter: 10, // speed / step
+    frames: [
+      [mario_mini_01, mario_mini_02, mario_mini_03], //backward
+      [mario_mini_11, mario_mini_12, mario_mini_13], //forward
     ],
   },
   mario: {
@@ -92,7 +107,8 @@ const heroesShowUp = {
   "7050-12100": { hero: "vader" },
   "12100-12600": { hero: "space" },
   "12600-17650": { hero: "walle" },
-  "17650-21975": { hero: "mario" },
+  "17650-19050": { hero: "mario_mini" },
+  "19050-21975": { hero: "mario" },
   "21975-23100": { hero: "space" },
   "23100-28150": { hero: "pacman" },
   "28150-29050": { hero: "space" },

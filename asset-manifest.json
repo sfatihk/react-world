@@ -1,15 +1,14 @@
 {
   "main.css": "/react-world/static/css/main.f1dce718.chunk.css",
-  "main.js": "/react-world/static/js/main.e042cd5b.chunk.js",
-  "main.js.map": "/react-world/static/js/main.e042cd5b.chunk.js.map",
+  "main.js": "/react-world/static/js/main.3a2b6a63.chunk.js",
+  "main.js.map": "/react-world/static/js/main.3a2b6a63.chunk.js.map",
   "runtime~main.js": "/react-world/static/js/runtime~main.72b31130.js",
   "runtime~main.js.map": "/react-world/static/js/runtime~main.72b31130.js.map",
   "static/js/2.d2ca1c0d.chunk.js": "/react-world/static/js/2.d2ca1c0d.chunk.js",
   "static/js/2.d2ca1c0d.chunk.js.map": "/react-world/static/js/2.d2ca1c0d.chunk.js.map",
   "index.html": "/react-world/index.html",
-  "precache-manifest.649aef7693dd3805e9a51abe6fb594d0.js": "/react-world/precache-manifest.649aef7693dd3805e9a51abe6fb594d0.js",
+  "precache-manifest.e55e1488d88c5cc05aa09618cabf0b13.js": "/react-world/precache-manifest.e55e1488d88c5cc05aa09618cabf0b13.js",
   "service-worker.js": "/react-world/service-worker.js",
   "static/css/main.f1dce718.chunk.css.map": "/react-world/static/css/main.f1dce718.chunk.css.map",
-  "static/media/frodo.png": "/react-world/static/media/frodo.47939afc.png",
-  "static/media/sauron.png": "/react-world/static/media/sauron.f6711283.png"
+  "static/media/sauron.png": "/react-world/static/media/sauron.b3b7d04c.png"
 }

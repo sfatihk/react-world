@@ -18,7 +18,10 @@ const WithScroll = (WrappedComponent) => {
     waitForScroll = null;
 
     componentDidMount() {
-      this.state.scroll = this.startScroll;
+      this.setState({
+        ...this.state,
+        scroll: this.startScroll,
+      });
       document.location = "#";
       this.hackTheScroll(this.state.scroll);
       window.addEventListener("scroll", this.animateWithScroll);
@@ -33,10 +36,14 @@ const WithScroll = (WrappedComponent) => {
       requestAnimationFrame(this.autoAnimate);
       if (!this.autoScroll) return;
 
-      this.state.onScrolling = true;
-      this.state.scrollDirection = 1;
+      const newState = {
+        ...this.state,
+        onScrolling: true,
+        scrollDirection: 1,
+      };
       if (this.state.scroll < this.maxScroll)
-        this.state.scroll += this.scrollIncrement;
+        newState.scroll += this.scrollIncrement;
+      this.setState(newState);
       this.isScrollStable = false;
       this.forceUpdate();
 
@@ -46,10 +53,13 @@ const WithScroll = (WrappedComponent) => {
     animateWithScroll = (event) => {
       if (this.autoScroll) return;
 
-      this.state.onScrolling = true;
-      this.state.scrollDirection = window.scrollY - this.oldScroll > 0 ? 1 : 0;
-      this.state.scroll =
-        window.scrollY < this.maxScroll ? window.scrollY : this.maxScroll;
+      this.setState({
+        onScrolling: true,
+        scrollDirection: window.scrollY - this.oldScroll > 0 ? 1 : 0,
+        scroll:
+          window.scrollY < this.maxScroll ? window.scrollY : this.maxScroll,
+      });
+
       this.oldScroll = window.scrollY;
       this.forceUpdate();
     };

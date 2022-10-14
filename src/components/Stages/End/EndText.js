@@ -18,7 +18,7 @@ const EndText = React.memo(props => (
       href="https://github.com/sfatihk/react-world"
     >
       <h1 style={{ color: "#6B6B6B" }}>
-        >View
+        &gt;View
         <br />
         Source
       </h1>
